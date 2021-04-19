@@ -12,8 +12,8 @@ Pour moi, il y a plusieurs choses qui me semblent importantes lorsque l'on déve
 
 Sinon, je participe à un projet de développement en Angular. Je le citerai ici quand j'aurais pris un peu plus de niveau et serais un peu plus efficace ! 
 
-🔭 Mon apprentissage
-<hr/>
+###🔭 Mon apprentissage
+
 J'ai appris le HTML il y a très longtemps (nostalgie ...). J'ai donc dû m'y remettre pour apprendre le HTML5 et le CSS3. J'ai aussi suivi un tutoriel relativement complet sur Javascript. Mais je préfère Angular, que je suis en train d'apprendre au sein du projet sur lequel je travaille, et affectionne particulièrement TypeScript ;)
 J'ai également eu la chance de trouver sur ma route la personne qui "dirige" le projet qui est d'ailleurs devenue mon coach pour que je puisse évoluer !
 
