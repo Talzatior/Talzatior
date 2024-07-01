@@ -1,4 +1,4 @@
-## Hi there 👋 (19.04.2021)
+## Hi there 👋 (15.06.2024)
 
 Je me présente, Pierre CHRISTMANN, tombé dans l'antre du code depuis quelques années maintenant.  
 En effet, j'ai travaillé sur quelques projets (aidés sur certains, car je manquais cruellement de connaissances...) qui ont fait naître une passion pour le fait de coder !  
@@ -16,6 +16,7 @@ Sinon, je participe à un projet de développement en Angular. Je le citerai ici
 
 J'ai appris le HTML il y a très longtemps (nostalgie ...). J'ai donc dû m'y remettre pour apprendre le HTML5 et le CSS3. J'ai aussi suivi un tutoriel relativement complet sur Javascript. Mais je préfère Angular, que je suis en train d'apprendre au sein du projet sur lequel je travaille, et affectionne particulièrement TypeScript ;)
 J'ai également eu la chance de trouver sur ma route la personne qui "dirige" le projet qui est d'ailleurs devenue mon coach pour que je puisse évoluer !
+Je viens de souscrire une formation de développeur web fullstack auprès de l'organisme Skill&You afin d'obtenir des connaissances plus complètes et, surtout, une certification pour prouver ce que j'ai pu apprendre et ce que je sais faire ! J'espère que cela fera la différence avec le fait d'être simplement auto-didacte. Je suis cette formation sur mon temps libre, à côté de mon emploi d'agent de sécurité incendie.
 
 
 <!--
